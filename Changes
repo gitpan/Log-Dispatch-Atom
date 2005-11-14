@@ -1,6 +1,10 @@
 Revision history for XML-Atom-Log
 
+0.02 Mon Nov 14 12:55:44 GMT 2005
+        - More diagnostics in the test output.
+	- Correct license info.
+
 0.01  Tue Sep 20 07:52:17 2005
        Initial release.
 
-@(#) $Id: Changes 1031 2005-11-03 22:22:47Z dom $
+@(#) $Id: Changes 1083 2005-11-14 13:03:29Z dom $

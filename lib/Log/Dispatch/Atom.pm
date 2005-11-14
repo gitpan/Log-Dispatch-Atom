@@ -1,8 +1,8 @@
-# @(#) $Id: Atom.pm 1033 2005-11-03 23:12:20Z dom $
+# @(#) $Id: Atom.pm 1081 2005-11-14 12:59:41Z dom $
 
 package Log::Dispatch::Atom;
 
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 use warnings;
 use strict;
@@ -260,10 +260,24 @@ Dominic Mitchell  C<< <cpan (at) happygiraffe.net> >>
 Copyright (c) 2005, Dominic Mitchell C<< <cpan (at) happygiraffe.net> >>.
 All rights reserved.
 
-This module is free software; you can redistribute it and/or
-modify it under the same terms as Perl itself. See L<perlartistic>.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
 
-=head1 DISCLAIMER OF WARRANTY
+=over 4
+
+=item 1.
+
+Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+
+=item 2.
+
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+=back
 
 BECAUSE THIS SOFTWARE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
 FOR THE SOFTWARE, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN
